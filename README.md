@@ -1,3 +1,44 @@
-# htmlsempel-2
-html sempel
-Hello 
+<html>
+
+  <head>
+    <title> MaxStudent.net </title>
+    <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+  </head>
+
+
+
+  
+
+<body>
+<h1 style=" border-bottom: 2px solid red;" >
+
+MaxStudent
+
+</h1>
+  
+<div id="hovering" >     
+<img class="bottom" src="D:\Images for html\primal.jpg" alt="farcry primal" style=" height:624px; width: 100%;" />
+<img class="top" src="D:\videos\images for editing\maxtime.jpg" alt="Maxtime" style=" height:624px; width: 100%;" /> 
+
+</div> 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</body>        
+</html>
